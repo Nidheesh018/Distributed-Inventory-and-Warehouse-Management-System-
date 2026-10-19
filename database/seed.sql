@@ -1,0 +1,4 @@
+-- Demo data is intentionally seeded by backend/app/db/seed.py.
+-- That seed path generates per-user PBKDF2 password hashes and creates the
+-- related users, customers, warehouses, products and inventory in one setup.
+-- Use `docker compose up --build` for the supported demo flow.

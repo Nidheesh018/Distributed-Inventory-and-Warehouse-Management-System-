@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+.vscode/
+.idea/
+
+# local secrets / generated files
+.env
+backend/.env
+frontend/dist
+node_modules
+__pycache__
+*.pyc
+.pytest_cache
